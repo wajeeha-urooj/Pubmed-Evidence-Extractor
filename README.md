@@ -1,7 +1,7 @@
 # 🧬 PubMed Evidence Extractor
 
 A rule-based Python tool for searching PubMed and extracting structured evidence from research abstracts.
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
 [![Biopython](https://img.shields.io/badge/Biopython-Entrez-green)](https://biopython.org/)
 [![PubMed](https://img.shields.io/badge/Database-PubMed-orange)](https://pubmed.ncbi.nlm.nih.gov/)
