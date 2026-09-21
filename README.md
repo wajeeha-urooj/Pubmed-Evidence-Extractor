@@ -11,6 +11,7 @@ A rule-based Python tool for searching PubMed and extracting structured evidence
   <img src="assets/pubmed-evidence-extractor.png" alt="PubMed Evidence Extractor" width="700">
 </p>
 
+
 ## 🔬 Overview
 
 The **PubMed Evidence Extractor** is a research-oriented Python notebook designed to help organize evidence from PubMed literature searches.
