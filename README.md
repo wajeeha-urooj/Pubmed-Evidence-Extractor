@@ -1,13 +1,10 @@
 # 🧬 PubMed Evidence Extractor
 
-![PubMed Evidence Extractor](assets/pubmed-evidence-extractor.png)
-
 A rule-based Python tool for searching PubMed and extracting structured evidence from research abstracts.
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
 [![Biopython](https://img.shields.io/badge/Biopython-Entrez-green)](https://biopython.org/)
 [![PubMed](https://img.shields.io/badge/Database-PubMed-orange)](https://pubmed.ncbi.nlm.nih.gov/)
-
 
 
 ## 🔬 Overview
