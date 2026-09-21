@@ -123,4 +123,3 @@ Do not commit personal email addresses, API keys, or other private credentials t
 
 This project demonstrates the application of Python-based text processing and biomedical literature retrieval to a research workflow.
 
-It was developed as part of a bioinformatics portfolio focused on reproducible computational approaches to biomedical research.
